@@ -1,0 +1,27 @@
+{
+  "name": "language-menhir",
+  "version": "0.0.1",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "description": "Menhir language support in Atom",
+  "keywords": [
+    "tree-sitter",
+    "menhir",
+    "ocaml"
+  ],
+  "homepage": "https://github.com/Kerl13/language-menhir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kerl13/language-menhir.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kerl13/language-menhir/issues"
+  },
+  "dependencies": {
+    "atom-grammar-test": "^0.6.4",
+    "tree-sitter-menhir": "^0.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+name: 'Menhir'
+scopeName: 'source.menhir'
+type: 'tree-sitter'
+parser: 'tree-sitter-menhir'
+fileTypes: ['mly']
